@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/build
+/.firebase
 /.pnp
 .pnp.js
 
@@ -17,6 +19,10 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.env
+.firebaserc
+.firebase.json
+
 
 npm-debug.log*
 yarn-debug.log*
